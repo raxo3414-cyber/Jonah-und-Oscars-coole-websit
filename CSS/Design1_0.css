@@ -1,0 +1,70 @@
+
+.myClass1 {
+    text-align: center;
+    font-size: 15pt;
+}
+
+.myClass2 {
+    font-size: 15pt;
+}
+
+.Überschrift {
+  text-align: center  
+}
+
+.Steckbrief {
+  background-color: rgb(130, 130, 130);
+  width: 1625px;
+  border: 10px solid rgb(220, 220, 220);
+  padding: 100px;
+  margin: 15px;
+  
+  justify-content: center;
+}
+
+.Interessen {
+    text-align: center
+}
+
+.Extern {
+  text-align: center  
+}
+
+.thumbnail {
+    border: 5px solid rgb(220, 220, 220);
+}
+
+
+
+
+body {
+  color: white;
+  background-color: rgb(169, 169, 169);
+  font-family: Lato, Arial;
+  text-align: center;
+}
+
+p {
+  font-size:12pt;
+}
+
+li {
+  padding-bottom: 5px;
+  align-self: center;
+  align-items: center
+  
+  font-size:10pt;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size:30pt;
+  font-family: monaco;
+}
+
+h2 {
+  padding-top: 50px;
+  color: white
+}
+3
